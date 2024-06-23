@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T17:03:16.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="TwfHU8vSt2SAvjS3ZAPh" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T17:12:54.429Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="nCrkwfBU-2iuggQaa-rr" version="24.6.2" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="2206" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="490" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2-sOZN1NLR4EMqEl9yD2-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.printer;" vertex="1" parent="1">
-          <mxGeometry x="970" y="340" width="80" height="80" as="geometry" />
+          <mxGeometry x="980" y="345" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2-sOZN1NLR4EMqEl9yD2-29" value="&lt;p style=&quot;line-height: 800%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;HDMI Splitter&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="html=1;strokeWidth=2;outlineConnect=0;dashed=0;align=center;fontSize=8;fillColor=#c0f5a9;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.splitter;" vertex="1" parent="1">
           <mxGeometry x="300" y="395" width="100" height="60" as="geometry" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="2-sOZN1NLR4EMqEl9yD2-33" value="Atem Mini Pro" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://gray.net.au/assets/images/ATEMMiniPro.png;spacing=22;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="780" y="491" width="270" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="2-sOZN1NLR4EMqEl9yD2-34" value="Stream Deck" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://www.elgato.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Felgato-pwa%2Fimage%2Fupload%2Fv1686570507%2FProducts%2F10GAT9901%2Fabove-the-fold%2Fdesktop%2Fsd-xl-01-min.jpg&amp;w=3840&amp;q=85;fontColor=default;labelBackgroundColor=none;fontSize=18;spacing=24;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="200" width="280" height="179" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
