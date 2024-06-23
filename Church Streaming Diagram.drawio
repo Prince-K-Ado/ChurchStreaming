@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T16:58:53.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="uNS6OFmXR6_vfQsWySFm" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T17:03:16.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="TwfHU8vSt2SAvjS3ZAPh" version="24.6.2" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="2206" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="460" y="80" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="2-sOZN1NLR4EMqEl9yD2-4" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
-          <mxGeometry x="860" y="81" width="90" height="81" as="geometry" />
+          <mxGeometry x="860" y="58.5" width="90" height="81" as="geometry" />
         </mxCell>
         <mxCell id="2-sOZN1NLR4EMqEl9yD2-7" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
           <mxGeometry x="1478" y="78" width="91.11" height="82" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="1240" y="280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2-sOZN1NLR4EMqEl9yD2-23" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.mac_client;" vertex="1" parent="1">
-          <mxGeometry x="630" y="83" width="98" height="79" as="geometry" />
+          <mxGeometry x="620" y="60.5" width="98" height="79" as="geometry" />
         </mxCell>
         <mxCell id="2-sOZN1NLR4EMqEl9yD2-24" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.mac_client;" vertex="1" parent="1">
           <mxGeometry x="1230" y="80" width="100" height="82" as="geometry" />
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="2-sOZN1NLR4EMqEl9yD2-31" value="&lt;p style=&quot;line-height: 800%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;HDMI Splitter&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="html=1;strokeWidth=2;outlineConnect=0;dashed=0;align=center;fontSize=8;fillColor=#c0f5a9;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.splitter;" vertex="1" parent="1">
           <mxGeometry x="610" y="400" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2-sOZN1NLR4EMqEl9yD2-33" value="Atem Mini Pro" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://gray.net.au/assets/images/ATEMMiniPro.png;spacing=22;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="780" y="491" width="270" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
