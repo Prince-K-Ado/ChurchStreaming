@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T17:12:54.429Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="nCrkwfBU-2iuggQaa-rr" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T17:21:57.970Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="7dqeSPXW0IwxNV3Z9udF" version="24.6.2" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="2206" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="2-sOZN1NLR4EMqEl9yD2-34" value="Stream Deck" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://www.elgato.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Felgato-pwa%2Fimage%2Fupload%2Fv1686570507%2FProducts%2F10GAT9901%2Fabove-the-fold%2Fdesktop%2Fsd-xl-01-min.jpg&amp;w=3840&amp;q=85;fontColor=default;labelBackgroundColor=none;fontSize=18;spacing=24;imageBackground=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="200" width="280" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="2-sOZN1NLR4EMqEl9yD2-35" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1580" y="249" width="120" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
