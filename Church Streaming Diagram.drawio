@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-07-07T17:23:24.039Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="IqIRjwygp6JfW2S14Wz8" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-07T17:26:50.122Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="KR8N7CVB9FaO3sL9UYcF" version="24.6.4" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="2340" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2-sOZN1NLR4EMqEl9yD2-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="285" y="69" width="75" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2-sOZN1NLR4EMqEl9yD2-2" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.stream;" parent="1" vertex="1">
           <mxGeometry x="120" y="189" width="41" height="41" as="geometry" />
         </mxCell>
@@ -65,9 +62,6 @@
         <mxCell id="2-sOZN1NLR4EMqEl9yD2-34" value="Stream Deck" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://www.elgato.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Felgato-pwa%2Fimage%2Fupload%2Fv1686570507%2FProducts%2F10GAT9901%2Fabove-the-fold%2Fdesktop%2Fsd-xl-01-min.jpg&amp;w=3840&amp;q=85;fontColor=default;labelBackgroundColor=none;fontSize=18;spacing=24;imageBackground=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="319" width="130" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="2-sOZN1NLR4EMqEl9yD2-35" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="350" y="189" width="80" height="61" as="geometry" />
-        </mxCell>
         <mxCell id="3DfevgwgSPiWLLm_7wcE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="925" y="520" as="sourcePoint" />
@@ -86,31 +80,8 @@
         <mxCell id="3DfevgwgSPiWLLm_7wcE-9" value="&lt;p style=&quot;line-height: 170%;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Monitor&lt;/font&gt;&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.mac_client;" vertex="1" parent="1">
           <mxGeometry x="1320" y="45.25" width="90" height="69.5" as="geometry" />
         </mxCell>
-        <mxCell id="3DfevgwgSPiWLLm_7wcE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.344;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2-sOZN1NLR4EMqEl9yD2-1" target="2-sOZN1NLR4EMqEl9yD2-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3DfevgwgSPiWLLm_7wcE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.071;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2-sOZN1NLR4EMqEl9yD2-35" target="2-sOZN1NLR4EMqEl9yD2-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="200" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="430" y="210" />
-              <mxPoint x="716" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3DfevgwgSPiWLLm_7wcE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3DfevgwgSPiWLLm_7wcE-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="212.10999999999976" as="sourcePoint" />
-            <mxPoint x="1331.8000000000002" y="199.99699999999993" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="50" />
-              <mxPoint x="1250" y="50" />
-              <mxPoint x="1250" y="245" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3DfevgwgSPiWLLm_7wcE-25" value="&lt;p style=&quot;line-height: 200%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;HDMI Splitter&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="html=1;strokeWidth=2;outlineConnect=0;dashed=0;align=center;fontSize=8;fillColor=#c0f5a9;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.splitter;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="230" width="50" height="30.25" as="geometry" />
+          <mxGeometry x="1690" y="439.75" width="50" height="30.25" as="geometry" />
         </mxCell>
         <mxCell id="3DfevgwgSPiWLLm_7wcE-29" value="&lt;p style=&quot;line-height: 200%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;HDMI Splitter&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="html=1;strokeWidth=2;outlineConnect=0;dashed=0;align=center;fontSize=8;fillColor=#c0f5a9;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.splitter;" vertex="1" parent="1">
           <mxGeometry x="1120" y="69" width="50" height="30.25" as="geometry" />
